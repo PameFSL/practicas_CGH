@@ -1,0 +1,3 @@
+﻿  triangulo_B.cpp
+d:\octavo\compu_grafica\practicas\p2\hola\p1_hola_mundo\triangulo_b.cpp(109): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+  p1_hola_mundo.vcxproj -> D:\OCTAVO\COMPU_GRAFICA\PRACTICAS\p2\hola\Debug\p1_hola_mundo.exe
