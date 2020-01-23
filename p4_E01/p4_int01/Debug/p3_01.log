@@ -1,0 +1,16 @@
+﻿  Window.cpp
+d:\octavo\compu_grafica\practicas\p4_e01\p4_int01\window.h(12): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+d:\octavo\compu_grafica\practicas\p4_e01\p4_int01\window.h(13): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+d:\octavo\compu_grafica\practicas\p4_e01\p4_int01\window.cpp(101): warning C4473: "printf": no se pasaron suficientes argumentos para la cadena de formato
+  d:\octavo\compu_grafica\practicas\p4_e01\p4_int01\window.cpp(101): note: los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+  d:\octavo\compu_grafica\practicas\p4_e01\p4_int01\window.cpp(101): note: el argumento variádico 2 que falta es requerido por la cadena de formato '%d'
+d:\octavo\compu_grafica\practicas\p4_e01\p4_int01\window.cpp(106): warning C4473: "printf": no se pasaron suficientes argumentos para la cadena de formato
+  d:\octavo\compu_grafica\practicas\p4_e01\p4_int01\window.cpp(106): note: los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+  d:\octavo\compu_grafica\practicas\p4_e01\p4_int01\window.cpp(106): note: el argumento variádico 2 que falta es requerido por la cadena de formato '%d'
+  practica4.cpp
+d:\octavo\compu_grafica\practicas\p4_e01\p4_int01\window.h(12): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+d:\octavo\compu_grafica\practicas\p4_e01\p4_int01\window.h(13): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+d:\octavo\compu_grafica\practicas\p4_e01\p4_int01\practica4.cpp(18): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Generando código...
+d:\octavo\compu_grafica\practicas\p4_e01\p4_int01\window.cpp(81): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+  p3_01.vcxproj -> D:\OCTAVO\COMPU_GRAFICA\PRACTICAS\p4_E01\p4_int01\Debug\p3_01.exe

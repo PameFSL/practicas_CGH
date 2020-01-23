@@ -1,0 +1,7 @@
+﻿  Mesh.cpp
+  Window.cpp
+d:\octavo\compu_grafica\practicas\p4_e01\infin\window.h(12): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+d:\octavo\compu_grafica\practicas\p4_e01\infin\window.h(13): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  Generando código...
+d:\octavo\compu_grafica\practicas\p4_e01\infin\window.cpp(74): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+  p3_01.vcxproj -> D:\OCTAVO\COMPU_GRAFICA\PRACTICAS\p4_E01\infin\Debug\p3_01.exe

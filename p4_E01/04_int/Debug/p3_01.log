@@ -1,0 +1,6 @@
+﻿  escuela.cpp
+d:\octavo\compu_grafica\practicas\p4_e01\04_int\window.h(16): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+d:\octavo\compu_grafica\practicas\p4_e01\04_int\window.h(17): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+d:\octavo\compu_grafica\practicas\p4_e01\04_int\escuela.cpp(16): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+d:\octavo\compu_grafica\practicas\p4_e01\04_int\escuela.cpp(75): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+  p3_01.vcxproj -> D:\OCTAVO\COMPU_GRAFICA\PRACTICAS\p4_E01\04_int\Debug\p3_01.exe

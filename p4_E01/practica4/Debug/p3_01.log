@@ -1,0 +1,13 @@
+﻿  Mesh.cpp
+  practica4.cpp
+d:\octavo\compu_grafica\practicas\p4_e01\practica4\window.h(12): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+d:\octavo\compu_grafica\practicas\p4_e01\practica4\window.h(13): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+d:\octavo\compu_grafica\practicas\p4_e01\practica4\practica4.cpp(16): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Shader.cpp
+  Window.cpp
+d:\octavo\compu_grafica\practicas\p4_e01\practica4\window.h(12): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+d:\octavo\compu_grafica\practicas\p4_e01\practica4\window.h(13): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  Generando código...
+d:\octavo\compu_grafica\practicas\p4_e01\practica4\window.cpp(74): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  p3_01.vcxproj -> D:\OCTAVO\COMPU_GRAFICA\PRACTICAS\p4_E01\practica4\Debug\p3_01.exe
